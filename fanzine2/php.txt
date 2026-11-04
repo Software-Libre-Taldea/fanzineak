@@ -1,0 +1,10 @@
+# PHP-ren ahulezia batek lurrikarak sortu ditu interneten
+
+php2shell deitzen da RCE ahulezia, eta 2012tik aurrerako PHP bertsio guztiak (>=5.4) daude kaltetuak. Gehienezko 10etatik 9.2 puntu ditu CVSS v4.0 kritikotasun eskalan, eta, presio nahikoa ez balitz, akordatutako argitaratze data -- urriak 22 -- baino bi egun lehenago, ahuleziari buruzko xehetasunak filtratzen hasi ziren. Nahiz eta data egun bat aurreratu, gerora, PHP fundazioarekin lanean zebiltzan hainbat alderdik informazio gehiago filtratu dute, nahita zein nahi gabe, eta erasoak sumatzen hasi dira bertsio zuzenduak ofizialki argitaratuak izan baino lehen.
+
+Imajina daitekeenez, aurkikuntza horren eragina izugarria izan da. PHP lengoaia web aplikazio mordok erabiltzen dute; esaterako, Wordpress, Laravel, edota Nextcloud-ek. Gainera, oraindik web zerbitzari piloa dago interneten konponketarik jasoko ez duten PHP bertsio zaharkituak erabiltzen. EHUren testuinguruan ere denok igarri dugu ezustekoa: hainbat plataforma kaltetutara sartzeko, eGela nabarmen, VPNa erabili behar izan dugu dena konpondu arte.
+
+
+Iturriak:
+https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/
+https://blog.virustotal.com/2026/10/sizing-php-exposure-window-for-cve-2026.html
