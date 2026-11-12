@@ -1,4 +1,7 @@
 # Fanzineak
+## Letra tipoak
+Erabiltzen ditugun letra tipoak `fonts` karpetan sartu behar dira, editatzen duenak eskuragarri izateko bere ordenagailuan.
+
 ## Nola kontribuitu
 Lehenik eta behin, `git pull` egin, scribusen konfliktoak buruhauste bat dira bestela.
 
