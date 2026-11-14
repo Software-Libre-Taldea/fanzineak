@@ -22,9 +22,14 @@ fanzineX
 ```
 
 ### Testuak eta irudiak kontribuitzeko
-- **Testu bat** idatzi baduzu, sartu zure .txt .md edo .odt artxiboa testuak karpetan. 
+ **Testu bat** idatzi baduzu, sartu zure .txt .md edo .odt artxiboa testuak karpetan. 
 
-- **Irudiak** kontribuitzeko, irudiak karpetan sartu.
+#### Testuen neurriak, bataz beste:
+- Orri bateko artikulua: 2000-2700 karaktere
+- Berri laburra: 1000 karaktere
+
+
+**Irudiak** kontribuitzeko, irudiak karpetan sartu.
 ### Fanzinea montatzeko
 **Gomendioa:** Fanzinea pertsona bakarrak montatzea gomendatzen da, scribuseko konflikto gutxiago egoteko. Zertan ari zaren badakizu, egin aurrera, lasai.
 
